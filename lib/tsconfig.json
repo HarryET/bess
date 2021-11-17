@@ -1,0 +1,25 @@
+{
+  "compilerOptions":{
+    "target":"es5",
+    "lib":[],
+    "module":"commonjs",
+    "rootDir":"./",
+    "declaration":true, 
+    "outDir":"./dist",
+    "esModuleInterop":true,
+    "forceConsistentCasingInFileNames":true,
+    "strict":true,
+    "noImplicitAny":true,
+    "strictNullChecks":true,
+    "strictFunctionTypes":true,
+    "noImplicitThis":true,
+    "alwaysStrict":true,
+    "noUnusedLocals":true,
+    "noUnusedParameters":true,
+    "noImplicitReturns":true,
+    "noFallthroughCasesInSwitch":true,
+    "noImplicitOverride":true,
+    "allowUnreachableCode":false,
+    "skipLibCheck":true
+  }
+}

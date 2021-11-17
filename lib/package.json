@@ -1,0 +1,17 @@
+{
+  "name": "@bess/lib",
+  "version": "0.1.0-alpha.1",
+  "description": "British Enhanced Style Sheets",
+  "main": "./dist/index.js",
+  "repository": "https://github.com/HarryET/bess",
+  "author": "HarryET <h.bairstow22@gmail.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  }
+}

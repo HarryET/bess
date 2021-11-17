@@ -18,6 +18,7 @@ This runs the transpiler on your input function and spits out a valid .css file
 - [ ] Nested Rules
 - [ ] Maths?
 - [ ] Mixins/Inheritance?
+- [ ] Custom colours e.g. `colour: burple`
 
 # Support
 Feel free to join my [Discord Server](https://discord.gg/VJbwVx7bYs) for support with this project and see some of my other projects!
